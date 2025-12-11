@@ -51,12 +51,6 @@ This repository was created for **learning and skill development** in data visua
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of each dashboard here to showcase visual design and interactivity.
-
----
-
 ## 📚 Learning Goals
 
 - Practice advanced DAX and SQL logic  
