@@ -1,10 +1,10 @@
 
 # Data Jobs Dashboard Overview
 
-![Power BI Dashboard](/Project%20Image/Project%20Image%20two.png)
+![Power BI Dashboard](https://github.com/Ritik574-coder/Bi-Project-/blob/main/Data%20Job%20Dashboard%20Overview/Project%20Image%20two.png)
 
 ## Power BI Dashboard Drill
-![Power BI Dashboard Drill](/Project%20Image/Project%20Image%20three%20.png)
+![Power BI Dashboard Drill](https://github.com/Ritik574-coder/Bi-Project-/blob/main/Data%20Job%20Dashboard%20Overview/Project%20Image%20three%20.png)
 
 ## Introduction
 
@@ -118,4 +118,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Last Updated: December 17, 2025*  
+
 *Built with ❤️ in India*
