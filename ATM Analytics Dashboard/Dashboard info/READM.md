@@ -782,15 +782,6 @@ SUMMARIZECOLUMNS (
 
 ---
 
-## 🔥 Why this is **portfolio + interview ready**
-
-* Single executable DAX script
-* Covers **Executive, Finance, Ops, Risk** KPIs
-* Clean naming & reusable logic
-* Exactly how **senior Power BI / Data Analysts** work
-
----
-
 
 
 
