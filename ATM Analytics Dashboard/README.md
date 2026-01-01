@@ -221,7 +221,7 @@ I'm always up for chatting about data, AI, or business ideas. Reach out!
 
 ## License
 
-MIT License—see [LICENSE](LICENSE) for deets. Remix, share, just shoutout the source!
+MIT License—see [LICENSE](https://github.com/Ritik574-coder/Bi-Project-/edit/main/LICENSE) for deets. Remix, share, just shoutout the source!
 
 ---
 
