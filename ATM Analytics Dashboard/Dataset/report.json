@@ -1,0 +1,169 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/3.0.0/schema.json",
+  "themeCollection": {
+    "baseTheme": {
+      "name": "CY25SU11",
+      "reportVersionAtImport": {
+        "visual": "2.4.0",
+        "report": "3.0.0",
+        "page": "2.3.0"
+      },
+      "type": "SharedResources"
+    }
+  },
+  "objects": {
+    "section": [
+      {
+        "properties": {
+          "verticalAlignment": {
+            "expr": {
+              "Literal": {
+                "Value": "'Top'"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "outspacePane": [
+      {
+        "properties": {
+          "expanded": {
+            "expr": {
+              "Literal": {
+                "Value": "false"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "resourcePackages": [
+    {
+      "name": "SharedResources",
+      "type": "SharedResources",
+      "items": [
+        {
+          "name": "CY25SU11",
+          "path": "BaseThemes/CY25SU11.json",
+          "type": "BaseTheme"
+        }
+      ]
+    },
+    {
+      "name": "RegisteredResources",
+      "type": "RegisteredResources",
+      "items": [
+        {
+          "name": "29295665234424257.png",
+          "path": "29295665234424257.png",
+          "type": "Image"
+        },
+        {
+          "name": "14970705900239506.png",
+          "path": "14970705900239506.png",
+          "type": "Image"
+        },
+        {
+          "name": "320342270723221512.png",
+          "path": "320342270723221512.png",
+          "type": "Image"
+        },
+        {
+          "name": "icons8-tableau-software-486436843305699632.png",
+          "path": "icons8-tableau-software-486436843305699632.png",
+          "type": "Image"
+        },
+        {
+          "name": "icons8-linkedin-48_(1)7477910531914039.png",
+          "path": "icons8-linkedin-48_(1)7477910531914039.png",
+          "type": "Image"
+        },
+        {
+          "name": "icons8-instagram-48_(1)06745165005140352.png",
+          "path": "icons8-instagram-48_(1)06745165005140352.png",
+          "type": "Image"
+        },
+        {
+          "name": "icons8-github-1006172283560122073.png",
+          "path": "icons8-github-1006172283560122073.png",
+          "type": "Image"
+        },
+        {
+          "name": "icons8-filter-3230579980972429543.png",
+          "path": "icons8-filter-3230579980972429543.png",
+          "type": "Image"
+        },
+        {
+          "name": "Rectangle_2_(1)2146030515595838.png",
+          "path": "Rectangle_2_(1)2146030515595838.png",
+          "type": "Image"
+        },
+        {
+          "name": "icons8-tableau-software-48_(1)5007008262801477.png",
+          "path": "icons8-tableau-software-48_(1)5007008262801477.png",
+          "type": "Image"
+        },
+        {
+          "name": "icons8-x-4803532585096430996.png",
+          "path": "icons8-x-4803532585096430996.png",
+          "type": "Image"
+        },
+        {
+          "name": "icons8-filter-323500082929975066.png",
+          "path": "icons8-filter-323500082929975066.png",
+          "type": "Image"
+        },
+        {
+          "name": "Rectangle_2_(1)5279754195626778.png",
+          "path": "Rectangle_2_(1)5279754195626778.png",
+          "type": "Image"
+        },
+        {
+          "name": "Rectangle_1_(1)7157330453135049.png",
+          "path": "Rectangle_1_(1)7157330453135049.png",
+          "type": "Image"
+        },
+        {
+          "name": "info-hidden15801565747954838.png",
+          "path": "info-hidden15801565747954838.png",
+          "type": "Image"
+        },
+        {
+          "name": "info-shown6137653829581404.png",
+          "path": "info-shown6137653829581404.png",
+          "type": "Image"
+        },
+        {
+          "name": "icons8-dashboard-327728209435172971.png",
+          "path": "icons8-dashboard-327728209435172971.png",
+          "type": "Image"
+        },
+        {
+          "name": "Group_29444914433856224.png",
+          "path": "Group_29444914433856224.png",
+          "type": "Image"
+        },
+        {
+          "name": "icons8-filter-32027108097138029086.png",
+          "path": "icons8-filter-32027108097138029086.png",
+          "type": "Image"
+        },
+        {
+          "name": "Rectangle_241792352565308744.png",
+          "path": "Rectangle_241792352565308744.png",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "useStylableVisualContainerHeader": true,
+    "exportDataMode": "AllowSummarized",
+    "defaultDrillFilterOtherVisuals": true,
+    "allowChangeFilterTypes": true,
+    "useEnhancedTooltips": true,
+    "useDefaultAggregateDisplayName": true
+  }
+}
