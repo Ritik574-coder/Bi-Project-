@@ -87,7 +87,7 @@ I'm always up for chatting about data, AI, or business ideas. Reach out!
 
 ---
 
-*Thanks for stopping by! Let's make data dreams a reality. 💫*  
+### *Thanks for stopping by! Let's make data dreams a reality. 💫*  
 *Last Updated: December 17, 2025*  
 *Built with ❤️ from India*
 ---
