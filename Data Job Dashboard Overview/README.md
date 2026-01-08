@@ -39,19 +39,6 @@ This dashboard shines through its interactive elements and data-driven storytell
 
 All visuals are responsive, mobile-friendly, and powered by slicers for easy filtering by date, location, or job attributes.
 
-## Screenshots
-
-Explore the dashboard through these key views:
-
-| Section | Description | Screenshot |
-|---------|-------------|------------|
-| **Main Overview** | High-level KPIs, trends, and global map showing 339K+ jobs with $115.5K avg salary. | ![Main Overview](/Project%20Image/Project%20image%20oen%20.png) |
-| **Job Trends & Salaries** | 2024 job count trends and hourly vs. annual salary bubbles for top roles. | ![Trends & Salaries](/Project%20Image/Project%20Image%20two.png) |
-| **Highest Paying Roles** | Bar chart of top salaries (e.g., Software Engineer at $150K) and job trends table. | ![Highest Paying](images/dashboard-overview-1.png) (bottom section) |
-| **Drill-Through: Senior Data Scientist** | Salary gauges, global job map, platform bars, and employment type pie. | ![Drill-Through](/Project%20Image/Project%20Image%20three%20.png) |
-
-*Note: Screenshots are static captures. For the full interactive experience, download the .pbix file from the [Releases](https://github.com/Ritik574-coder/data-jobs-dashboard/releases) section or view the live version on my Tableau Public profile (linked below).*
-
 ## Data Sources & Methodology
 
 - **Primary Dataset**: Aggregated from public sources like Indeed, LinkedIn, and Glassdoor APIs (anonymized and cleaned via Python/Pandas for ETL).
@@ -120,3 +107,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Last Updated: December 17, 2025*  
 
 *Built with ❤️ in India*
+
