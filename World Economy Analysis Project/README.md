@@ -14,27 +14,23 @@ World-Analysis-PowerBI/
 │   └── World_Analysis_Dashboard.pdf   (optional – preview)
 │
 ├── dashboards/
-│   ├── 01_Home_Overview.md
-│   ├── 02_Global_Economy.md
-│   ├── 03_GDP_Analysis.md
-│   ├── 04_Trade_&_Energy.md
-│   ├── 05_CO2_Emissions.md
-│   ├── 06_Military_&_Reserves.md
-│   ├── 07_Population_&_HDI.md
-│   ├── 08_Regional_Insights.md
-│   └── 09_Key_Insights.md
+│   ├── 01_Home_Overview.png
+│   ├── 02_Global_Economy.png
+│   ├── 03_GDP_Analysis.png
+│   ├── 04_Trade_&_Energy.png
+│   ├── 05_CO2_Emissions.png
+│   ├── 06_Military_&_Reserves.png
+│   ├── 07_Population_&_HDI.png
+│   ├── 08_Regional_Insights.png
+│   └── 09_Key_Insights.png
 │
 ├── data/
-│   ├── raw/
-│   │   ├── world_gdp.csv
-│   │   ├── population.csv
-│   │   ├── energy_consumption.csv
-│   │   ├── co2_emissions.csv
-│   │   └── military_spending.csv
-│   │
-│   ├── processed/
-│   │   ├── world_metrics_cleaned.csv
-│   │   └── economy_summary.csv
+│   ├
+│   ├── world_gdp.csv
+│   ├── population.csv
+│   ├── energy_consumption.csv
+│   ├── co2_emissions.csv
+│   └── military_spending.csv
 │
 ├── model/
 │   ├── tables.md
@@ -47,7 +43,7 @@ World-Analysis-PowerBI/
 │   └── time_intelligence.md
 │
 ├── assets/
-│   ├── screenshots/
+│   ├── Layout/
 │   │   ├── home.png
 │   │   ├── economy.png
 │   │   ├── co2.png
@@ -55,7 +51,7 @@ World-Analysis-PowerBI/
 │   │
 │   ├── icons/
 │   └── theme/
-│       └── world_analysis_theme.json
+│     
 │
 ├── documentation/
 │   ├── project_overview.md
