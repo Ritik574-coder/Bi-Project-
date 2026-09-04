@@ -1,6 +1,6 @@
 # 📊 BI Dashboard Collection
 
-A curated portfolio of Business Intelligence dashboards built using Power BI and Tableau. This collection showcases real-world analytics across domains like HR, Sales, and Music, blending technical precision with cinematic visual storytelling. Each dashboard is designed for clarity, interactivity, and insight-driven decision making.
+A curated portfolio of Business Intelligence dashboards built using Power BI and Tableau. This collection showcases real-world analytics across domains like HR, Sales, and Music, blending technical precision with cinematic visual storytelling. Each dashboard is designed for clarity, interactivity, and insight-driven decision-making.
 
 ---
 
@@ -13,7 +13,7 @@ This repository was created for **learning and skill development** in data visua
 ## 🛠️ Tools & Technologies
 
 - **Power BI** – Interactive dashboards, DAX measures, slicers, bookmarks  
-- **Tableau Public** – Visual storytelling, map charts, performance matrices  
+- **Tableau Public** – Visual storytelling, map charts, performance metrics  
 - **SQL** – Data modeling, query optimization, stored procedures  
 - **Excel / CSV** – Data sources and preprocessing
 
